@@ -1,0 +1,5 @@
+{
+  "name": "Unity C# Color Converter",
+  "description": "A color picker that generates color codes in Unity's C# format (new Color(r, g, b)) from a standard color picker. Simplifies converting colors for game development in Unity.",
+  "requestFramePermissions": []
+}
